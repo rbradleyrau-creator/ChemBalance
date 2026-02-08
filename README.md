@@ -1,4 +1,4 @@
-# Escape Room Repositor
+# Escape Room Repository
 Puzzle Documents and Designs 
 
 Reaction_Speed_Challenge = Wireless Reaction-Speed Challenge
